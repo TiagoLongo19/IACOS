@@ -1,0 +1,27 @@
+[1.174s] Invoking command in '/home/vboxuser/turtlebot3_ws/src/gesture_detection': PS1=(hand_detection) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/vboxuser/turtlebot3_ws/build/gesture_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gesture_detection build --build-base /home/vboxuser/turtlebot3_ws/build/gesture_detection/build install --record /home/vboxuser/turtlebot3_ws/build/gesture_detection/install.log --single-version-externally-managed install_data
+[1.438s] running egg_info
+[1.439s] writing ../../build/gesture_detection/gesture_detection.egg-info/PKG-INFO
+[1.440s] writing dependency_links to ../../build/gesture_detection/gesture_detection.egg-info/dependency_links.txt
+[1.440s] writing entry points to ../../build/gesture_detection/gesture_detection.egg-info/entry_points.txt
+[1.440s] writing requirements to ../../build/gesture_detection/gesture_detection.egg-info/requires.txt
+[1.440s] writing top-level names to ../../build/gesture_detection/gesture_detection.egg-info/top_level.txt
+[1.442s] reading manifest file '../../build/gesture_detection/gesture_detection.egg-info/SOURCES.txt'
+[1.447s] adding license file 'LICENSE'
+[1.448s] writing manifest file '../../build/gesture_detection/gesture_detection.egg-info/SOURCES.txt'
+[1.448s] running build
+[1.448s] running build_py
+[1.449s] creating /home/vboxuser/turtlebot3_ws/build/gesture_detection/build/lib/gesture_detection/model
+[1.449s] copying gesture_detection/model/__init__.py -> /home/vboxuser/turtlebot3_ws/build/gesture_detection/build/lib/gesture_detection/model
+[1.449s] running install
+[1.449s] running install_lib
+[1.450s] creating /home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages/gesture_detection/model
+[1.451s] copying /home/vboxuser/turtlebot3_ws/build/gesture_detection/build/lib/gesture_detection/model/__init__.py -> /home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages/gesture_detection/model
+[1.451s] byte-compiling /home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages/gesture_detection/model/__init__.py to __init__.cpython-310.pyc
+[1.452s] running install_data
+[1.452s] running install_egg_info
+[1.454s] removing '/home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages/gesture_detection-0.0.0-py3.10.egg-info' (and everything under it)
+[1.454s] Copying ../../build/gesture_detection/gesture_detection.egg-info to /home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages/gesture_detection-0.0.0-py3.10.egg-info
+[1.455s] running install_scripts
+[1.488s] Installing talker script to /home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/gesture_detection
+[1.488s] writing list of installed files to '/home/vboxuser/turtlebot3_ws/build/gesture_detection/install.log'
+[1.525s] Invoked command in '/home/vboxuser/turtlebot3_ws/src/gesture_detection' returned '0': PS1=(hand_detection) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/vboxuser/turtlebot3_ws/build/gesture_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gesture_detection build --build-base /home/vboxuser/turtlebot3_ws/build/gesture_detection/build install --record /home/vboxuser/turtlebot3_ws/build/gesture_detection/install.log --single-version-externally-managed install_data

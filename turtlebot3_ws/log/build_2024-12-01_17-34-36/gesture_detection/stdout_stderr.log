@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/gesture_detection/gesture_detection.egg-info/PKG-INFO
+writing dependency_links to ../../build/gesture_detection/gesture_detection.egg-info/dependency_links.txt
+writing entry points to ../../build/gesture_detection/gesture_detection.egg-info/entry_points.txt
+writing requirements to ../../build/gesture_detection/gesture_detection.egg-info/requires.txt
+writing top-level names to ../../build/gesture_detection/gesture_detection.egg-info/top_level.txt
+reading manifest file '../../build/gesture_detection/gesture_detection.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/gesture_detection/gesture_detection.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying package.xml -> /home/vboxuser/turtlebot3_ws/install/gesture_detection/share/gesture_detection
+running install_egg_info
+removing '/home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages/gesture_detection-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/gesture_detection/gesture_detection.egg-info to /home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/python3.10/site-packages/gesture_detection-0.0.0-py3.10.egg-info
+running install_scripts
+Installing talker script to /home/vboxuser/turtlebot3_ws/install/gesture_detection/lib/gesture_detection
+writing list of installed files to '/home/vboxuser/turtlebot3_ws/build/gesture_detection/install.log'

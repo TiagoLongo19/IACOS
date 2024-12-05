@@ -1,0 +1,30 @@
+[0.843s] Invoking command in '/home/vboxuser/turtlebot3_ws/src/detection_node': PS1=(hand_detection) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/vboxuser/turtlebot3_ws/build/detection_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/detection_node build --build-base /home/vboxuser/turtlebot3_ws/build/detection_node/build install --record /home/vboxuser/turtlebot3_ws/build/detection_node/install.log --single-version-externally-managed install_data
+[1.216s] running egg_info
+[1.216s] writing ../../build/detection_node/detection_node.egg-info/PKG-INFO
+[1.217s] writing dependency_links to ../../build/detection_node/detection_node.egg-info/dependency_links.txt
+[1.218s] writing entry points to ../../build/detection_node/detection_node.egg-info/entry_points.txt
+[1.218s] writing requirements to ../../build/detection_node/detection_node.egg-info/requires.txt
+[1.218s] writing top-level names to ../../build/detection_node/detection_node.egg-info/top_level.txt
+[1.222s] reading manifest file '../../build/detection_node/detection_node.egg-info/SOURCES.txt'
+[1.222s] writing manifest file '../../build/detection_node/detection_node.egg-info/SOURCES.txt'
+[1.222s] running build
+[1.222s] running build_py
+[1.222s] copying detection_node/publisher.py -> /home/vboxuser/turtlebot3_ws/build/detection_node/build/lib/detection_node
+[1.222s] running install
+[1.223s] running install_lib
+[1.224s] copying /home/vboxuser/turtlebot3_ws/build/detection_node/build/lib/detection_node/publisher.py -> /home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node
+[1.225s] byte-compiling /home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node/app.py to app.cpython-310.pyc
+[1.227s]   File "/home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node/app.py", line 19
+[1.227s]     hands = mp_hands.Hands(
+[1.227s]                           ^
+[1.227s] SyntaxError: '(' was never closed
+[1.228s] 
+[1.228s] byte-compiling /home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node/publisher.py to publisher.cpython-310.pyc
+[1.242s] running install_data
+[1.242s] running install_egg_info
+[1.246s] removing '/home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node-0.0.0-py3.10.egg-info' (and everything under it)
+[1.247s] Copying ../../build/detection_node/detection_node.egg-info to /home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node-0.0.0-py3.10.egg-info
+[1.249s] running install_scripts
+[1.287s] Installing talker script to /home/vboxuser/turtlebot3_ws/install/detection_node/lib/detection_node
+[1.287s] writing list of installed files to '/home/vboxuser/turtlebot3_ws/build/detection_node/install.log'
+[1.328s] Invoked command in '/home/vboxuser/turtlebot3_ws/src/detection_node' returned '0': PS1=(hand_detection) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/vboxuser/turtlebot3_ws/build/detection_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/detection_node build --build-base /home/vboxuser/turtlebot3_ws/build/detection_node/build install --record /home/vboxuser/turtlebot3_ws/build/detection_node/install.log --single-version-externally-managed install_data

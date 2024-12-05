@@ -1,0 +1,3 @@
+[console_scripts]
+talker = detection_node.publisher:main
+

@@ -1,0 +1,21 @@
+[0.027s] Invoking command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node': PS1=(hand_detection) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/vboxuser/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/vboxuser/turtlebot3_ws/install/turtlebot3_fake_node
+[0.107s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.379s] Traceback (most recent call last):
+[0.379s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/package_templates/templates_2_cmake.py", line 21, in <module>
+[0.379s]     from ament_package.templates import get_environment_hook_template_path
+[0.380s] ModuleNotFoundError: No module named 'ament_package'
+[0.397s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/ament_cmake_package_templates-extras.cmake:41 (message):
+[0.398s]   execute_process(/usr/bin/python3
+[0.398s]   /opt/ros/humble/share/ament_cmake_core/cmake/package_templates/templates_2_cmake.py
+[0.398s]   /home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node/ament_cmake_package_templates/templates.cmake)
+[0.398s]   returned error code 1
+[0.399s] Call Stack (most recent call first):
+[0.399s]   /opt/ros/humble/share/ament_cmake_core/cmake/ament_cmake_coreConfig.cmake:41 (include)
+[0.400s]   /opt/ros/humble/share/ament_cmake/cmake/ament_cmake_export_dependencies-extras.cmake:15 (find_package)
+[0.400s]   /opt/ros/humble/share/ament_cmake/cmake/ament_cmakeConfig.cmake:41 (include)
+[0.400s]   CMakeLists.txt:18 (find_package)
+[0.400s] 
+[0.400s] [0m
+[0.400s] -- Configuring incomplete, errors occurred!
+[0.400s] See also "/home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node/CMakeFiles/CMakeOutput.log".
+[0.467s] Invoked command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node' returned '1': PS1=(hand_detection) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake /home/vboxuser/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/vboxuser/turtlebot3_ws/install/turtlebot3_fake_node

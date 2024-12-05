@@ -1,0 +1,4 @@
+Invoking command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo': /usr/bin/cmake --build /home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo -- -j6 -l6
+Invoked command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo' returned '0': /usr/bin/cmake --build /home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo -- -j6 -l6
+Invoking command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo': /usr/bin/cmake --install /home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo
+Invoked command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo' returned '0': /usr/bin/cmake --install /home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo

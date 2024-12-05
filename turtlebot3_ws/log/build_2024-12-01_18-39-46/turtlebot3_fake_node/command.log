@@ -1,0 +1,4 @@
+Invoking command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node': /usr/bin/cmake --build /home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node -- -j6 -l6
+Invoked command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': /usr/bin/cmake --build /home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node -- -j6 -l6
+Invoking command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node': /usr/bin/cmake --install /home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node
+Invoked command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': /usr/bin/cmake --install /home/vboxuser/turtlebot3_ws/build/turtlebot3_fake_node

@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/detection_node/detection_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/detection_node/detection_node.egg-info/dependency_links.txt
+writing entry points to ../../build/detection_node/detection_node.egg-info/entry_points.txt
+writing requirements to ../../build/detection_node/detection_node.egg-info/requires.txt
+writing top-level names to ../../build/detection_node/detection_node.egg-info/top_level.txt
+reading manifest file '../../build/detection_node/detection_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/detection_node/detection_node.egg-info/SOURCES.txt'
+running build
+running build_py
+copying detection_node/publisher.py -> /home/vboxuser/turtlebot3_ws/build/detection_node/build/lib/detection_node
+running install
+running install_lib
+copying /home/vboxuser/turtlebot3_ws/build/detection_node/build/lib/detection_node/publisher.py -> /home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node
+byte-compiling /home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node/app.py to app.cpython-310.pyc
+byte-compiling /home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node/publisher.py to publisher.cpython-310.pyc
+  File "/home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node/app.py", line 19
+    hands = mp_hands.Hands(
+                          ^
+SyntaxError: '(' was never closed
+
+running install_data
+running install_egg_info
+removing '/home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/detection_node/detection_node.egg-info to /home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node-0.0.0-py3.10.egg-info
+running install_scripts
+Installing talker script to /home/vboxuser/turtlebot3_ws/install/detection_node/lib/detection_node
+writing list of installed files to '/home/vboxuser/turtlebot3_ws/build/detection_node/install.log'

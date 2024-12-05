@@ -1,0 +1,2 @@
+Invoking command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo': /usr/bin/cmake /home/vboxuser/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vboxuser/turtlebot3_ws/install/turtlebot3_gazebo
+Invoked command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo' returned '1': /usr/bin/cmake /home/vboxuser/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vboxuser/turtlebot3_ws/install/turtlebot3_gazebo

@@ -1,0 +1,33 @@
+[0.014s] Invoking command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo': /usr/bin/cmake /home/vboxuser/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vboxuser/turtlebot3_ws/install/turtlebot3_gazebo
+[0.283s] -- The C compiler identification is GNU 11.4.0
+[0.447s] -- The CXX compiler identification is GNU 11.4.0
+[0.465s] -- Detecting C compiler ABI info
+[0.565s] -- Detecting C compiler ABI info - done
+[0.573s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.575s] -- Detecting C compile features
+[0.576s] -- Detecting C compile features - done
+[0.578s] -- Detecting CXX compiler ABI info
+[0.667s] -- Detecting CXX compiler ABI info - done
+[0.676s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.677s] -- Detecting CXX compile features
+[0.678s] -- Detecting CXX compile features - done
+[0.690s] [31mCMake Error at CMakeLists.txt:22 (find_package):
+[0.690s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.690s]   has asked CMake to find a package configuration file provided by
+[0.690s]   "ament_cmake", but CMake did not find one.
+[0.690s] 
+[0.691s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.691s]   any of the following names:
+[0.691s] 
+[0.691s]     ament_cmakeConfig.cmake
+[0.691s]     ament_cmake-config.cmake
+[0.691s] 
+[0.691s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.691s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.691s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.691s]   has been installed.
+[0.691s] 
+[0.691s] [0m
+[0.691s] -- Configuring incomplete, errors occurred!
+[0.691s] See also "/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo/CMakeFiles/CMakeOutput.log".
+[0.694s] Invoked command in '/home/vboxuser/turtlebot3_ws/build/turtlebot3_gazebo' returned '1': /usr/bin/cmake /home/vboxuser/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vboxuser/turtlebot3_ws/install/turtlebot3_gazebo

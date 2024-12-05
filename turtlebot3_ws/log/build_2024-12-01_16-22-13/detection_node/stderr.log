@@ -1,0 +1,5 @@
+  File "/home/vboxuser/turtlebot3_ws/install/detection_node/lib/python3.10/site-packages/detection_node/app.py", line 19
+    hands = mp_hands.Hands(
+                          ^
+SyntaxError: '(' was never closed
+
